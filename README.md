@@ -1,2 +1,3 @@
 # ArchyPie-Resources
-ArchyPie-Resources: Files, data etc for ArchyPie.
+
+Assets for ArchyPie.
