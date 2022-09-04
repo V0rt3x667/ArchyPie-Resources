@@ -1,3 +1,3 @@
 # ArchyPie-Resources
 
-Assets for ArchyPie.
+Assets for DooM.
